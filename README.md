@@ -1,9 +1,17 @@
 # Binar Brains No Code Low Code
- 
-![plot](app1.jpeg)
-![plot](app1a.jpeg)
-![plot](app2.jpeg)
-![plot](app3.jpeg)
-![plot](app4.jpeg)
-![plot](app5.jpeg)
-![plot](app6.jpeg)
+
+<p align="center">
+  <img src="app1.jpeg" alt="App 1" width="30%"/>
+  <img src="app1a.jpeg" alt="App 2" width="30%"/>
+  <img src="app2.jpeg" alt="App 3" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="app3.jpeg" alt="App 1" width="30%"/>
+  <img src="app4.jpeg" alt="App 2" width="30%"/>
+  <img src="app5.jpeg" alt="App 3" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="app6.jpeg" alt="App 1" width="30%"/>
+</p>
